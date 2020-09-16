@@ -20,13 +20,15 @@
    <p><b>QUALIFICATION :</b>DIPLOMA(CSE) </p><br>
    
    <h3>SOCIAL MEDIA</h3><br>
+    <body style="bgcolor:(pink)">  
   
   
   
 <b>REACH ME</b>
 <a href="http://instagram.com/yogi_nyc232"target="_blank">
              INSTAGRAM
-             </a>           
+             </a> 
+          
    
 
 
