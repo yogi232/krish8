@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><center><h1><ul>BIO-DATA</ul></h1></center></head>
-  <img src="IMG_20200710_134624_072.jpg" align="right" height="900" width="500" >         
+  <img src="IMG_20200813_085434_421.jpg" align="right" height="900" width="500" >         
 
 
 <body>
