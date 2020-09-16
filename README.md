@@ -5,9 +5,9 @@
 
 
 <body>
-<p><b>NAME:</b><i>nandyala yogendra</i></p><br>
+<p><b>NAME:</b>nandyala yogendra</p><br>
 <p><b>D.O.B:</b><i>20/08/1999</i></p><br>
-<p><b>COLLEGE:</b><i>jntuacea</i></p><br>
+<p><b>COLLEGE:</b>jntuacea</p><br>
   <p><b>HOBBIES:</b> matching movies,listening music,and reading books</p><br>
   <p><b>ADDRESS:</b> AP,kadapa(D),kamalapuram</p><br>
   <p><b>CONTACT:</b>95******30</p><br>
