@@ -25,7 +25,8 @@
   
   
 <b>REACH ME</b>
-<a href="http://instagram.com/yogi_nyc232"target="blank">INSTAGRAM</a>
+
+<a href="https://instagram.com/yogi_nyc232" target="blank">instagram</a>
             
           
    
