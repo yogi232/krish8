@@ -16,7 +16,7 @@
    <p><b>GENDER:</b>male</p><br>
    <p><b>BLOOD GROUP:</b>B+ve</p><br>
   
-  <h3><ul>EDICATION DETAILS</ul></h3><br>
+  <h3>EDICATION DETAILS</h3><br>
    <p><b>QUALIFICATION :</b>DIPLOMA(CSE) </p><br>
    
    <h3>SOCIAL MEDIA</h3><br>
