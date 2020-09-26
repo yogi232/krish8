@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang-"en">
+<head>
+<title>google layout</title>
+<style> 
+table, th,td{
+border:1px solid black;
+paddind:5px
+</style>
+</head>
